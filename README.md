@@ -24,9 +24,10 @@ yarn install
 ```
 
 ## Run project
-
+```
 npm run dev
 yarn dev
+```
 
 ### Compiles and hot-reloads for development
 ```
